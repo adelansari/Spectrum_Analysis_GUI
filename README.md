@@ -2,6 +2,10 @@
 
 Developed a graphical user interface using MATLAB which analyzes the spectrum of different radiation sources.
 
+<p align="center"> 
+<img src="Images/2.png">
+</p>
+
 # Abstract:
 
 For the spectrum analysis MATLAB program have been developed with Graphical User Interface (GUI). The functionalities of this program are the followings:
