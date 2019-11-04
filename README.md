@@ -3,7 +3,7 @@
 Developed a graphical user interface using MATLAB which analyzes the spectrum of different radiation sources.
 
 <p align="center"> 
-<img src="Images/2.png">
+<img src="Images/2.JPG">
 </p>
 
 # Abstract:
