@@ -6,7 +6,6 @@
 # ============
 *.m             text diff=matlab
 *.mu            text diff=matlab
-*.m linguist-language=Matlab
 
 # Caution: *.m also matches Mathematica packages.
 
