@@ -4,7 +4,7 @@
 
 # Source files
 # ============
-*.m             text diff=matlab
+Spectrum_Analysis_GUI_V2.m             text diff=matlab
 *.mu            text diff=matlab
 
 # Caution: *.m also matches Mathematica packages.
